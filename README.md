@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Priscila!
 
 🎓 **Information Technology Technician** — Colégio ULBRA São Lucas  
-💻 I work with **HTML, CSS, JavaScript, SQL and PHP**  
-🌱 Currently preparing to start projects using **C# and C++**                            
+💻 Built projects using **HTML, CSS, JavaScript, Java SQL and PHP** during my studies           
+🌱 Currently preparing to start projects using **C# and C++**                                   
 🎯 Open to any job opportunities in tech
 
 📌 **Focused and always evolving — improving my skills and experimenting with new ideas through projects.**
@@ -12,22 +12,14 @@
 ## 🛠️ Languages & Tools
 
 <div style="display: flex; gap: 15px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="45" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" />
 </div>
 
@@ -51,6 +43,13 @@
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/priscilaschlotenfeldt">
+    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=priscilaschlotenfeldt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=priscilaschlotenfeldt&layout=compact&langs_count=10&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
