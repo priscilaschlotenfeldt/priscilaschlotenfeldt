@@ -1,7 +1,9 @@
 ## 👋 Hello, I'm Priscila!
 
 🎓 **Information Technology Technician** — Colégio ULBRA São Lucas  
-💻 Built projects using **HTML, CSS, JavaScript, Java SQL and PHP** during my studies           
+🏆 **Winner of Change the Game 2021**  
+🎮 **Creator of the game _Omni Scientist_** — **check it out at the link in my profile!**
+💻 Built projects using **HTML, CSS, JavaScript, Java, SQL and PHP** during my studies           
 🌱 Currently preparing to start projects using **C# and C++**                                   
 🎯 Open to any job opportunities in tech
 
