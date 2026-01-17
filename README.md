@@ -48,8 +48,8 @@
 
 <div align="center">
   <a href="https://github.com/priscilaschlotenfeldt">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilaschlotenfeldt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaschlotenfeldt&layout=compact&langs_count=10&theme=dracula&v=1"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=priscilaschlotenfeldt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=2"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaschlotenfeldt&layout=compact&langs_count=10&theme=dracula&v=2"/>
   </a>
 </div>
 
