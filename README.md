@@ -38,11 +38,9 @@
 ## 💡 Interests
 
 💻 Frontend  
-🛡️ Cybersecurity  
 🤖 Artificial Intelligence  
 📱 Mobile & Web Development  
 
-<!--
 ---
 
 ## 📊 GitHub Stats
@@ -53,7 +51,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priscilaschlotenfeldt&layout=compact&langs_count=10&theme=dracula"/>
   </a>
 </div>
--->
+
 ---
 
 ## 🔗 Social & Contacts
