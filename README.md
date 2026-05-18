@@ -4,7 +4,6 @@
 🎓 **Information Technology Technician** — Colégio ULBRA São Lucas  
 🏆 **Winner of Change the Game 2021 challenge — creator of the game Omni Scientist, check it out in my profile!**    
 💻 Built projects using **HTML, CSS, JavaScript, Java, SQL and PHP** during my studies           
-🌱 Currently preparing to start projects using **C# and C++**                                   
 🎯 Open to any job opportunities in tech
 
 📌 **Focused and always evolving — improving my skills and experimenting with new ideas through projects.**
@@ -29,9 +28,9 @@
 
 ## 📚 Currently Learning
 
-- C# and C++  
+- C and C++  
 - Frontend deepening (React + practices)  
-- Cybersecurity fundamentals  
+- Cybersecurity fundamentals 
 
 ---
 
